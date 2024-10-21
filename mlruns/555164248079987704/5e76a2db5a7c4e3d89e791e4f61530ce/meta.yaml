@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555164248079987704/5e76a2db5a7c4e3d89e791e4f61530ce/artifacts
+end_time: 1729489240148
+entry_point_name: ''
+experiment_id: '555164248079987704'
+lifecycle_stage: active
+run_id: 5e76a2db5a7c4e3d89e791e4f61530ce
+run_name: bedecked-newt-670
+run_uuid: 5e76a2db5a7c4e3d89e791e4f61530ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729489236982
+status: 3
+tags: []
+user_id: vkandhai
