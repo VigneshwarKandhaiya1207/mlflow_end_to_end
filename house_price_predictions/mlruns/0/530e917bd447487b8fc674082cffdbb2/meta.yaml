@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/530e917bd447487b8fc674082cffdbb2/artifacts
+end_time: 1729672216037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 530e917bd447487b8fc674082cffdbb2
+run_name: auspicious-bird-526
+run_uuid: 530e917bd447487b8fc674082cffdbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729671530807
+status: 3
+tags: []
+user_id: vkandhai

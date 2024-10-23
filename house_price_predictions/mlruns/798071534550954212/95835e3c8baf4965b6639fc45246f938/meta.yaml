@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/798071534550954212/95835e3c8baf4965b6639fc45246f938/artifacts
+end_time: 1729671583695
+entry_point_name: ''
+experiment_id: '798071534550954212'
+lifecycle_stage: active
+run_id: 95835e3c8baf4965b6639fc45246f938
+run_name: bald-cod-224
+run_uuid: 95835e3c8baf4965b6639fc45246f938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729671580072
+status: 3
+tags: []
+user_id: vkandhai

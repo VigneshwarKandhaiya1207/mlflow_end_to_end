@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/798071534550954212/b861c98773e04ecd9ee8845f37078840/artifacts
+end_time: 1729671579894
+entry_point_name: ''
+experiment_id: '798071534550954212'
+lifecycle_stage: active
+run_id: b861c98773e04ecd9ee8845f37078840
+run_name: magnificent-moth-637
+run_uuid: b861c98773e04ecd9ee8845f37078840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729671572142
+status: 3
+tags: []
+user_id: vkandhai
